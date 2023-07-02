@@ -16,4 +16,4 @@ services:
 networks:
   default:
   external:
-  name: lafs-net
+    name: lafs-net
